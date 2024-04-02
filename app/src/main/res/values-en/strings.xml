@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="btpit">NMedia</string>
+    <string name="btpit_name">Borisoglebsk College of Industrial and Information Technologies</string>
+    <string name="post_18_03_2024">March 18 at 10:36 a.m.</string>
+    <string name="btpit_info">
+ГБПОУ ВО «БТПИТ» образовано в соответствии с постановлением правительства Воронежской области от 20 мая 2015 года № 401 в результате реорганизации в форме слияния ГОБУ СПО ВО «БИТ», ГОБУ СПО ВО «БТИВТ» и ГОБУ НПО ВО «ПУ № 34 г. Борисоглебска»
+Образовательно-производственный центр (кластер) федерального проекта
+"Профессионалитет" по отраслям «Туризм и сфера услуг» на базе ГБПОУ ВО "ХШН" и «Педагогика» на базе ГБПОУ ВО "ГПК" .
+Колледжи-партнеры: Базовая ОО - ГБПОУ ВО "ХШН"; сетевые ОО - ГБПОУ ВО "БАИК", ГБПОУ ВО "ВГПГК", ГБПОУ ВО "ВТППП", ГБПОУ ВО "ВГПТК", ГБПОУ ВО "БТПИТ".
+Колледжи-партнеры: Базовая ОО - ГБПОУ ВО "ГПК"; сетевые ОО - ГБПОУ ВО "ВГПГК имени В.М. Пескова“, ГБПОУ ВО "БТПИТ".
+Подробнее о федеральном проекте «Профессионалитет» на сайте
+www.ЯПРОФ.РФ и https://vk.com/fp_professionalitet
+GBPOU VO "BTPIT" was formed in accordance with the decree of the Government of the Voronezh Region dated May 20, 2015 No. 401 as a result of reorganization in the form of a merger of GOBU SPO VO "BIT", GOBU SPO VO "BTIVT" and GOBU NPO VO "PU No. 34 of Borisoglebsk"
+Educational and Production Center (cluster) of the federal project
+"Professionalism" in the fields of "Tourism and services" on the basis of GBPOU HE "HSHN" and "Pedagogy" on the basis of GBPOU HE "GPK".
+Partner colleges: Basic NGO - GBPOU VO "HSHN"; network NGO - GBPOU VO "BAIK", GBPOU VO "VGPGC", GBPOU VO "VTPPP", GBPOU VO "VGPTK", GBPOU VO "BTPIT".
+Partner colleges: Basic NGO - GBPOU VO "GPK"; network NGO - GBPOU VO "V.M. Peskov VGPGC", GBPOU VO "BTPIT".
+Read more about the federal project "Professionalism" on the website
+www.ЯПРОФ .Russian Federation and https://vk.com/fp_professionalitet</string>
+    <string name="null_n" />
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_10">10</string>
+    <string name="edit">edit</string>
+    <string name="remove">remove</string>
+
+</resources>
